@@ -1,24 +1,33 @@
-# 💫 Hi 👋, I'm Prem Gosavi
-**🚀 Front-End Developer | JavaScript • React • C++ | India**
+<h1 align="center">Hi 👋, I'm Prem Gosavi</h1>
+<h3 align="center">Aspiring Data Analyst | Open Source Contributor | Tech Community Leader</h3>
 
-Email Me 👉 ✉️ **premgosavi45@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  <a href="mailto:premgosavi45@gmail.com">Email Me ✉️</a> •
+  <a href="https://linkedin.com/in/premgosavi-12b40b365">LinkedIn 🔗</a>
+</p>
 
-- 🔭 **I’m currently working on:** Education Advisory Project
-- 🌱 **I’m currently learning:** React Framework,openCV.
-- 👯 **I’m looking to collaborate on:**
-- Front-End web projects (HTML, CSS, JavaScript, React)  
-- Beginner-friendly open source projects  
-- C++ / DSA practice and problem-solving projects
-  
-- 🤔 **I’m looking for help with:**
-- Improving my React and JavaScript projects  
-- Code reviews and best practices  
-- Contributing to open source projects
-  
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** premgosavi45@gmail.com
-- 😄 **Pronouns:** Prem Gosavi
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+---
+
+I am a detail-driven developer pivoting into **Data Analytics**, with a solid foundation in Python, SQL, and Full-Stack development. Currently gearing up for **GSoC 2027** by diving into data-centric open-source communities like NumFOCUS. 
+
+*   🔭 **I’m currently working on:** Open-source contributions (Python/Data tracks) and building AI/Data-driven applications (KisanMitra AI, EduAdvisory).
+*   🌱 **I’m currently learning:** Advanced Data Analytics (Python libraries, SQL, Power BI), Open-Source workflows, and exploring pandas/Jupyter codebases.
+*   👯 **I’m looking to collaborate on:** Data analysis projects, Python scripting, and beginner-friendly open-source issues.
+*   🤝 **Community Role:** Vice President at HackWithIndia (PVPIT Chapter) & AWS Cloud Club Lead — passionate about mentoring students in tech.
+*   🤔 **I’m looking for help with:** Navigating large open-source codebases (NumFOCUS) and advanced data visualization techniques.
+*   💬 **Ask me about:** Data Analytics, Community Building, Hackathons, and API Integrations.
+*   📫 **How to reach me:** premgosavi45@gmail.com
+*   😄 **Pronouns:** He/Him
+*   ⚡ **Fun fact:** I analyze data by day, and train at the gym by night! 🏋️‍♂️
+
+---
+
+### 💻 Tech Stack & Tools:
+*   **Data & AI:** Python, SQL, Excel, Power BI, OpenCV, Gemini API
+*   **Development:** C++, C, JavaScript (ES6+), React, HTML5/CSS3
+*   **Tools:** Git, GitHub, VS Code, Postman
+
+---
 
 ## 🔗 About Me
 
